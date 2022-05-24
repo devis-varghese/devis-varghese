@@ -4,7 +4,7 @@
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+<img width="1200" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
