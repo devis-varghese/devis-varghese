@@ -8,6 +8,7 @@
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
+In my opinion, love is the best teacher for everything. It is far better than responsibility.
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
