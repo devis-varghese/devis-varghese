@@ -2,7 +2,7 @@
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
