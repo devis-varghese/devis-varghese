@@ -1,3 +1,4 @@
+<img src="https://i.gifer.com/HaD1.gif">
 <h1 align="center">Hi 👋, I'm Devis Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 
