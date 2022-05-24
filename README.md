@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devis Varghese</h1>
+<h1 align="center">Hi 👋, I'm Devis Varghese<img src="devz.gif"></h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
