@@ -1,4 +1,3 @@
-<img src="https://i.gifer.com/HaD1.gif">
 <h1 align="center">Hi 👋, I'm Devis Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 
@@ -6,7 +5,7 @@
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
-
+<img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devis-varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devis-varghese" height="30" width="40" /></a>
