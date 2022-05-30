@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devis Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
-
-<p align="center">
-  <img width="250" src="http://24.media.tumblr.com/2bd458c9b6b4d58854c49c78854c3b1a/tumblr_n5mzga3Kuj1sg9gi2o1_500.gif">
-</p>
-<img width="1200" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+<img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
