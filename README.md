@@ -2,11 +2,11 @@
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 <h2 align="center"><img  width="500" src="https://media.giphy.com/media/2Truz0nm33DGsBiPaB/giphy.gif">
 <img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
-🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
+<h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
-In my opinion, love is the best teacher for everything. It is far better than responsibility.
+  In my opinion, love is the best teacher for everything. It is far better than responsibility. </h4>
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
