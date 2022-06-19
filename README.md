@@ -23,5 +23,6 @@
 </p>
  📊 MY GITHUB STATS
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allensphilip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <h3 align="left">Support:</h3>
+  <img alt="" src="https://github-profile-trophy.vercel.app/?username=amilmshaji&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+ <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devisvargh8"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="200" alt="devis varghese" /></a></p><br><br>
