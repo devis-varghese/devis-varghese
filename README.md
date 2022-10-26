@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devis Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
-<h2 align="center"><img  width="500" src="https://media.giphy.com/media/ESWLkcvRgYkcz8Ufpm/giphy.gif">
-<! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+<h2 align="center"><img  width="500" src="https://www.holopin.io/userbadge/cl9p86psu354608jiy19okqdp">
+
+ 
 <h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
@@ -15,6 +16,7 @@
 <a href="https://instagram.com/devzzzzzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devzzzzzzzzzz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devisvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devisvc" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
