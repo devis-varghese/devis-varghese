@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devis Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
-<h2 align="center"><img  width="500" src="https://www.holopin.io/userbadge/cl9p86psu354608jiy19okqdp">
+
 
  
 <h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
