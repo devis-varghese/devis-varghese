@@ -3,7 +3,7 @@
 
 
  
-<h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
+<h4 width="100"> 🔭 MCA Graduate<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
