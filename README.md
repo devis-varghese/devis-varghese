@@ -4,7 +4,7 @@
 
  
 <h4 width="100"> 🔭 MCA Graduate<br>
-🌱 I’m currently learning Django.<br>
+🌱 Django Developer<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
   In my opinion, love is the best teacher for everything. It is far better than responsibility. </h4>
